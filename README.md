@@ -1,0 +1,2 @@
+# Producer-Consumer-Synchronization-Simulator-using-Python-Tkinter
+An interactive Operating System project that demonstrates the Producer-Consumer Problem using Semaphores, Threads, Critical Sections, and Process Synchronization concepts. The simulator provides real-time visualization of buffer operations, producer-consumer activities, speed controls, and event logging through a modern Tkinter GUI.
